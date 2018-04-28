@@ -1,0 +1,20 @@
+astroid==1.6.3
+autopep8==1.3.5
+-e git+https://github.com/Azure/azure-functions-python-worker.git@b50f42e5bd13d9f9a8487abdff6979499024a879#egg=azure_functions_python
+cycler==0.10.0
+grpcio==1.11.0
+grpcio-tools==1.11.0
+isort==4.3.4
+kiwisolver==1.0.1
+lazy-object-proxy==1.3.1
+matplotlib==2.2.2
+mccabe==0.6.1
+numpy==1.14.2
+protobuf==3.5.2.post1
+pycodestyle==2.4.0
+pylint==1.8.4
+pyparsing==2.2.0
+python-dateutil==2.7.2
+pytz==2018.4
+six==1.11.0
+wrapt==1.10.11
